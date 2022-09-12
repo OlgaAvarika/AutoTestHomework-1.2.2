@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aod9nqb61v575gar?svg=true)](https://ci.appveyor.com/project/OlgaAvarika15297/autotesthomework-1-2-2)
